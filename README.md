@@ -2,11 +2,15 @@
 This project is a 2D Ping Pong Game developed using Java and JavaFX. It offers a fun, interactive gaming experience and demonstrates core object-oriented programming (OOP) principles, GUI design, and basic animation in Java.
 
 # Game Features:
-  🎯 Single Player Mode against a basic AI
-  🕹️ Smooth paddle control using keyboard input
-  💡 Score tracking for both player and opponent
-  ⚡ Real-time collision detection between the ball and paddles/walls
-  🎨 Simple and intuitive UI using JavaFX
+  🎯 Single Player Mode against a basic AI.
+  
+  🕹️ Smooth paddle control using keyboard input.
+  
+  💡 Score tracking for both player and opponent.
+  
+  ⚡ Real-time collision detection between the ball and paddles/walls.
+  
+  🎨 Simple and intuitive UI using JavaFX.
 
 # Technologies Used:
   1) Java – Core programming logic and game engine
