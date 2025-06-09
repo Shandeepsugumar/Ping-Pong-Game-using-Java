@@ -31,6 +31,7 @@ This project is a 2D Ping Pong Game developed using Java and JavaFX. It offers a
 
 # Screenshots:
 ![Screenshot 2025-06-09 212117](https://github.com/user-attachments/assets/17846c25-f8e8-4380-8987-ddc63da8de16)
+
 ![Screenshot 2025-06-09 212053](https://github.com/user-attachments/assets/6c927927-d3eb-461c-a479-7486c54c4d0d)
 
 
